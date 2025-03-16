@@ -39,6 +39,9 @@ import cart from "./cart.png";
 import menu from "./menu.png";
 import close from "./close.png";
 import heroImg from "./hero-img.jpg";
+import exchange from "./exchange.png";
+import quality from "./quality.png";
+import commercial from "./commercial.png";
 
 export const assets = {
   EGO,
@@ -48,6 +51,9 @@ export const assets = {
   menu,
   close,
   heroImg,
+  exchange,
+  quality,
+  commercial,
 };
 
 export const products = [
