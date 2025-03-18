@@ -42,6 +42,7 @@ import heroImg from "./hero-img.jpg";
 import exchange from "./exchange.png";
 import quality from "./quality.png";
 import commercial from "./commercial.png";
+import rightArrow from "./right-arrow.png";
 
 export const assets = {
   EGO,
@@ -54,6 +55,7 @@ export const assets = {
   exchange,
   quality,
   commercial,
+  rightArrow,
 };
 
 export const products = [
