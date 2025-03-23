@@ -45,6 +45,7 @@ import commercial from "./commercial.png";
 import rightArrow from "./right-arrow.png";
 import favorite from "./favorite.png";
 import star from "./star.png";
+import trashBin from "./trash-bin.png";
 
 export const assets = {
   EGO,
@@ -60,6 +61,7 @@ export const assets = {
   rightArrow,
   favorite,
   star,
+  trashBin,
 };
 
 export const products = [
