@@ -46,6 +46,8 @@ import rightArrow from "./right-arrow.png";
 import favorite from "./favorite.png";
 import star from "./star.png";
 import trashBin from "./trash-bin.png";
+import stripeLogo from "./stripe-logo.png";
+import razorpay from "./razorpay.png";
 
 export const assets = {
   EGO,
@@ -62,6 +64,8 @@ export const assets = {
   favorite,
   star,
   trashBin,
+  stripeLogo,
+  razorpay,
 };
 
 export const products = [
